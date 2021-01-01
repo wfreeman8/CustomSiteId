@@ -1,0 +1,29 @@
+{
+    "name": "CustomSiteId",
+    "description": "Allow the administrator to obfuscate the numeric site id with a custom string.",
+    "version": "0.1.0",
+    "theme": false,
+    "require": {
+        "matomo": ">=4.1.1-b1,<5.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Worth Freeman",
+            "email": "",
+            "homepage": ""
+        }
+    ],
+    "support": {
+        "email": "",
+        "issues": "",
+        "forum": "",
+        "irc": "",
+        "wiki": "",
+        "source": "",
+        "docs": "",
+        "rss": ""
+    },
+    "homepage": "",
+    "license": "GPL v3+",
+    "keywords": []
+}
